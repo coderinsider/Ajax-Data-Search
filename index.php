@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title></title>
+  <title>Data Search Dashboard</title>
 </head>
 <body>
   <form action="">
