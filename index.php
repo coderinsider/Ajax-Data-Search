@@ -1,6 +1,7 @@
 <html>
 <head>
   <title>Data Search Dashboard</title>
+  <meta name="name" content="content">
 </head>
 <body>
   <form action="">
